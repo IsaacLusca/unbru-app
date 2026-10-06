@@ -37,6 +37,12 @@ jobs:
       - name: Generate native Android project
         run: npx expo prebuild --platform android --clean --no-install
 
+      - name: Enable APK Signature Schema v1
+        run: |
+          sed -i "s/keyPassword 'android'/keyPassword 'android'\n            v1SigningEnabled true\n            v2SigningEnabled true/" android/app/build.gradle
+          grep -n "SigningEnabled" android/app/build.gradle
+          grep -q "v1SigningEnabled true" android/app/build.gradle
+
       - name: Build release APK
         working-directory: android
         run: ./gradlew assembleRelease --no-daemon
