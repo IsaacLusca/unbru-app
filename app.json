@@ -22,7 +22,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.leonardoribas.unbrufront",
+      "bundleIdentifier": "com.isaaclusca.unbrufront",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -32,7 +32,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#49B660"
       },
-      "package": "com.leonardoribas.unbrufront"
+      "package": "com.isaaclusca.unbrufront"
     },
     "web": {
       "lang": "pt-BR",

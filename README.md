@@ -12,6 +12,14 @@
     <img src="https://img.shields.io/static/v1?label=Expo&message=~48.0.0&color=000020&logo=expo"/> 
 </div>
 
+## Download
+
+<a href="https://github.com/IsaacLusca/unbru-app/releases/latest">
+    <img src="https://img.shields.io/github/v/release/IsaacLusca/unbru-app?label=baixar%20apk&color=49B660&logo=android&logoColor=white" alt="Baixar APK" />
+</a>
+
+O APK é gerado automaticamente pelo GitHub Actions a cada tag `v*` e anexado em [Releases](https://github.com/IsaacLusca/unbru-app/releases).
+
 ## Objetivo
 
 O app visa facilitar o acesso dos estudantes da Universidade de Brasília ao cardápio semanal do Restaurante Universitário.
