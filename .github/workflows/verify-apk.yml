@@ -1,0 +1,34 @@
+name: Verify APK
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag
+        required: true
+        default: v2.0.0
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download released APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p apk
+          gh release download "${{ inputs.tag }}" -R "${{ github.repository }}" -p "*.apk" -D apk
+          ls -la apk
+
+      - name: Verify signature and zip alignment
+        run: |
+          APK=$(ls apk/*.apk)
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -n1)
+          echo "build-tools: $BT"
+          echo "--- zipalign ---"
+          "$BT/zipalign" -c -v 4 "$APK" | tail -n 5 || true
+          echo "--- apksigner ---"
+          "$BT/apksigner" verify --verbose --print-certs "$APK"
