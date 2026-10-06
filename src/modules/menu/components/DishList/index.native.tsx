@@ -9,14 +9,11 @@ import { partition } from "@modules/menu/utils/partition";
 import MainDishCarousel from "@modules/menu/components/MainDishCarousel";
 import useFetchMenu from "@modules/menu/hooks/useFetchMenu";
 import { setMenu } from "@modules/common/redux/features/menuSlice";
-import { BannerAd, BannerAdSize, TestIds } from "react-native-google-mobile-ads";
 import EmptyState from "@modules/menu/components/EmptyState";
 import SubHeader from "../SubHeader";
 import * as Sharing from "expo-sharing";
 import ViewShot from "react-native-view-shot";
 import ShareMealCard from "@modules/menu/components/ShareMealCard";
-import { useIsFocused } from "@react-navigation/native";
-import { getAdRequestOptions } from "@modules/common/utils/ads";
 
 type MealMenuProps = {
     mealMenu: BreakfastMeal | LunchMeal | DinnerMeal;
@@ -28,10 +25,8 @@ function DishList({ mealMenu, mealType, time }: MealMenuProps): React.ReactEleme
     const [refreshing, setRefreshing] = useState(false);
     const fetchMenu = useFetchMenu();
     const dispatch = useAppDispatch();
-    const adUnitId = __DEV__ ? TestIds.BANNER : "ca-app-pub-7231147932250814/7932106851";
     const viewShotRef = useRef<ViewShot>(null);
     const theme = useAppSelector((state) => state.theme);
-    const isFocused = useIsFocused();
 
     const [main, extras] = useMemo(
         () =>
@@ -95,13 +90,6 @@ function DishList({ mealMenu, mealType, time }: MealMenuProps): React.ReactEleme
                 <EmptyState />
             )}
             <ShareMealCard ref={viewShotRef} main={main} mealType={mealType} />
-            {isFocused && (
-                <BannerAd
-                    unitId={adUnitId}
-                    size={BannerAdSize.ANCHORED_ADAPTIVE_BANNER}
-                    requestOptions={getAdRequestOptions()}
-                />
-            )}
         </View>
     );
 }

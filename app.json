@@ -51,13 +51,6 @@
     },
     "plugins": [
       "expo-font",
-      [
-        "react-native-google-mobile-ads",
-        {
-          "androidAppId": "ca-app-pub-7231147932250814~5244744085",
-          "iosAppId": "ca-app-pub-7231147932250814~5244744085"
-        }
-      ],
       "expo-sharing"
     ]
   }
