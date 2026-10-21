@@ -17,6 +17,18 @@ CAMPUSES = [
     ("Fazenda", "https://ru.unb.br/cardapio-fazenda-agua-limpa/"),
 ]
 
+# Layout antigo: uma página central com os PDFs de todos os campi
+MENU_PAGE_URL = "https://ru.unb.br/cardapio-refeitorio/"
+
+# Como identificar o campus pelo nome do arquivo do PDF (layout antigo)
+CAMPUS_FILE_PREFIX = {
+    "Darcy Ribeiro": ("darcy",),
+    "Ceilândia": ("ceilandia", "ceilândia"),
+    "Gama": ("gama",),
+    "Planaltina": ("planaltina",),
+    "Fazenda": ("fazenda",),
+}
+
 DATE_RE = re.compile(r"^\d{2}/\d{2}/\d{4}$")
 
 # Rótulos do PDF (maiúsculas) -> rótulos usados pelo app
@@ -153,39 +165,64 @@ def parse_pdf(path):
     return rows
 
 
-def pick_pdf_url(html, base_url):
+def _date_key_from_text(text, href):
+    dates = re.findall(r"(\d{1,2})/(\d{1,2})/(\d{4})", text)
+    if dates:
+        day, month, year = dates[0]
+        try:
+            return datetime(int(year), int(month), int(day))
+        except ValueError:
+            return None
+    m = re.search(r"(\d{1,2})-(\d{1,2})-a-(\d{1,2})-(\d{1,2})", href)
+    if m:
+        day, month = int(m.group(1)), int(m.group(2))
+        try:
+            return datetime(date.today().year, month, day)
+        except ValueError:
+            return None
+    return None
+
+
+def pdf_candidates(html):
     soup = BeautifulSoup(html, "html.parser")
     candidates = []
     for a in soup.find_all("a", href=True):
         href = a["href"]
         if ".pdf" not in href.lower():
             continue
-        text = a.get_text(" ", strip=True)
-        dates = re.findall(r"(\d{1,2})/(\d{1,2})/(\d{4})", text)
-        key = None
-        if dates:
-            day, month, year = dates[0]
-            key = datetime(int(year), int(month), int(day))
-        else:
-            m = re.search(r"(\d{1,2})-(\d{1,2})-a-(\d{1,2})-(\d{1,2})", href)
-            if m:
-                day, month = int(m.group(1)), int(m.group(2))
-                key = datetime(2026, month, day)
+        key = _date_key_from_text(a.get_text(" ", strip=True), href)
         if key:
             candidates.append((key, href))
-    if not candidates:
-        return None
     candidates.sort(key=lambda c: c[0], reverse=True)
-    return candidates[0][1]
+    return candidates
 
 
-def fetch_campus(url):
-    resp = requests.get(url, timeout=60, verify=False)
-    resp.raise_for_status()
-    pdf_url = pick_pdf_url(resp.text, url)
-    if not pdf_url:
-        raise RuntimeError(f"Nenhum PDF de cardápio encontrado em {url}")
+def pick_pdf_url(html):
+    candidates = pdf_candidates(html)
+    return candidates[0][1] if candidates else None
 
+
+def build_fallback_map():
+    """Lê a página central antiga e mapeia campus -> PDF mais recente."""
+    try:
+        resp = requests.get(MENU_PAGE_URL, timeout=60, verify=False)
+        resp.raise_for_status()
+    except Exception as exc:
+        print(f"[aviso] pagina central indisponivel: {exc}", file=sys.stderr)
+        return {}
+
+    latest = {}
+    for key, href in pdf_candidates(resp.text):
+        low = href.lower()
+        for campus, prefixes in CAMPUS_FILE_PREFIX.items():
+            if any(prefix in low for prefix in prefixes):
+                if campus not in latest or key > latest[campus][0]:
+                    latest[campus] = (key, href)
+                break
+    return {campus: value[1] for campus, value in latest.items()}
+
+
+def download_and_parse(pdf_url):
     with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
         tmp_path = tmp.name
     try:
@@ -193,17 +230,39 @@ def fetch_campus(url):
         pdf_resp.raise_for_status()
         with open(tmp_path, "wb") as f:
             f.write(pdf_resp.content)
-        return pdf_url, parse_pdf(tmp_path)
+        return parse_pdf(tmp_path)
     finally:
         os.unlink(tmp_path)
 
 
+def fetch_campus(campus, url, fallback_href=None):
+    errors = []
+    try:
+        resp = requests.get(url, timeout=60, verify=False)
+        resp.raise_for_status()
+        pdf_url = pick_pdf_url(resp.text)
+        if pdf_url:
+            return pdf_url, download_and_parse(pdf_url)
+        errors.append("pagina do campus sem PDF")
+    except Exception as exc:
+        errors.append(str(exc))
+
+    if fallback_href:
+        try:
+            return fallback_href, download_and_parse(fallback_href)
+        except Exception as exc:
+            errors.append(f"fallback: {exc}")
+
+    raise RuntimeError("; ".join(errors))
+
+
 def main():
     requests.packages.urllib3.disable_warnings()
+    fallback_pdfs = build_fallback_map()
     result = {}
     for campus, url in CAMPUSES:
         try:
-            pdf_url, rows = fetch_campus(url)
+            pdf_url, rows = fetch_campus(campus, url, fallback_pdfs.get(campus))
             result[campus] = rows
             print(f"[ok] {campus}: {len(rows)} dias ({pdf_url})", file=sys.stderr)
         except Exception as exc:
