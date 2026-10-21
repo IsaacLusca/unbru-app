@@ -2,7 +2,7 @@
   "expo": {
     "name": "UnBRU",
     "slug": "unbru",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "description": "Cardápio do Restaurante Univesitário de Brasília",
@@ -32,7 +32,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#49B660"
       },
-      "package": "com.isaaclusca.unbrufront"
+      "package": "com.isaaclusca.unbrufront",
+      "versionCode": 2
     },
     "web": {
       "lang": "pt-BR",
