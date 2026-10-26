@@ -8,7 +8,7 @@
         "Opção extra": "",
         "Gordura": "Manteiga ou creme vegetal",
         "Complemento padrão": "Salsicha ao molho",
-        "Complemento ovolactovegetariano": "Queijo muçarela",
+        "Complemento ovolactovegetariano": "Queijo minas",
         "Complemento vegetariano estrito": "Bolonhesa de soja",
         "Fruta": "Banana"
       },
@@ -27,7 +27,7 @@
       "jantar": {
         "Salada 1": "Acelga com alface roxa",
         "Salada 2": "Chuchu cozido com pimentões coloridos",
-        "Molho para salada": "Mostarda e mel",
+        "Molho para salada": "Mostarda e mel /Limão",
         "Prato principal padrão": "Frango à pizzaiolo",
         "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
         "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
@@ -46,7 +46,7 @@
         "Opção extra": "Canjica",
         "Gordura": "",
         "Complemento padrão": "Ovos mexidos",
-        "Complemento ovolactovegetariano": "Queijo minas",
+        "Complemento ovolactovegetariano": "Queijo muçarela",
         "Complemento vegetariano estrito": "Pasta de lentilha com hortelã",
         "Fruta": "Melancia"
       },
@@ -295,7 +295,7 @@
       "jantar": {
         "Salada 1": "Acelga com alface roxa",
         "Salada 2": "Chuchu cozido com pimentões coloridos",
-        "Molho para salada": "Mostarda e mel",
+        "Molho para salada": "Mostarda e mel /Limão",
         "Prato principal padrão": "Frango a pizzaiolo",
         "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
         "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
@@ -513,7 +513,7 @@
       "jantar": {
         "Salada 1": "Acelga com alface roxa",
         "Salada 2": "Chuchu cozido com pimentões coloridos",
-        "Molho para salada": "Mostarda e mel",
+        "Molho para salada": "Mostarda e mel /Limão",
         "Prato principal padrão": "Frango à pizzaiolo",
         "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
         "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
@@ -705,7 +705,7 @@
       "jantar": {
         "Salada 1": "Acelga com alface roxa",
         "Salada 2": "Chuchu cozido com pimentões coloridos",
-        "Molho para salada": "Mostarda e mel",
+        "Molho para salada": "Mostarda e mel /Limão",
         "Prato principal padrão": "Frango a pizzaiolo",
         "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
         "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
