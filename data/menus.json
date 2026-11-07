@@ -1,1078 +1,1078 @@
 {
   "Darcy Ribeiro": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "desjejum": {
-        "Bebidas": "Leite integral ou Bebida de soja / Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "Manteiga ou creme vegetal",
-        "Complemento padrão": "Carne desfiada",
-        "Complemento ovolactovegetariano": "Queijo muçarela",
-        "Complemento vegetariano estrito": "Homus de grão de bico",
-        "Fruta": "Abacaxi"
-      },
-      "almoco": {
-        "Salada 1": "Alface lisa com agrião",
-        "Salada 2": "Picles de cebola",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Frango assado com manjericão",
-        "Prato principal ovolactovegetariano": "Quiche de legumes e lentilha gratinada",
-        "Prato principal vegetariano estrito": "Refogado de lentilha, couve-flor e brócolis",
-        "Guarnição": "Jardineira verde (Chuchu e abobrinha)",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {
-        "Salada 1": "Mix de folhas",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Hortelã",
-        "Prato principal padrão": "Lagarto ao molho escuro",
-        "Prato principal ovolactovegetariano": "Baião de dois com queijo coalho",
-        "Prato principal vegetariano estrito": "Tomate recheado com soja",
-        "Sopa": "Creme de abóbora",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Morango"
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "Leite integral OU Bebida de soja / Café OU chá",
         "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Pão de queijo",
-        "Gordura": "",
+        "Opção extra": "Mingau de aveia",
+        "Gordura": "Manteiga ou creme vegetal",
         "Complemento padrão": "Frango desfiado",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Pasta de amendoim",
+        "Complemento ovolactovegetariano": "Ovos mexidos",
+        "Complemento vegetariano estrito": "Requeijão de ervas",
         "Fruta": "Melancia"
       },
       "almoco": {
-        "Salada 1": "Alface com chicória",
-        "Salada 2": "Abobrinha cozida com orégano",
-        "Molho para salada": "Chipotle /Limão",
-        "Prato principal padrão": "Suíno ao molho de bacon",
-        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
-        "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
-        "Guarnição": "Cenoura refogada com salsinha",
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Caponata de berinjela",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Carne ao molho de vinho",
+        "Prato principal ovolactovegetariano": "Berinjela recheada com quinoa gratinada",
+        "Prato principal vegetariano estrito": "Soja refogada com legumes",
+        "Guarnição": "Abóbora assada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Acerola"
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Guaraná"
       },
       "jantar": {
-        "Salada 1": "Acelga",
-        "Salada 2": "Salada de macarrão",
-        "Molho para salada": "Manjericão",
-        "Prato principal padrão": "Frango assado ao molho mostarda e mel",
-        "Prato principal ovolactovegetariano": "Escondidinho de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Bolinho de ervilha",
-        "Sopa": "Sopa de fubá",
+        "Salada 1": "Alface lisa com agrião",
+        "Salada 2": "Tabule",
+        "Molho para salada": "Rosé / Limão",
+        "Prato principal padrão": "Suíno ao molho barbecue de figo",
+        "Prato principal ovolactovegetariano": "Ovos mexidos com gergelim",
+        "Prato principal vegetariano estrito": "Refogado de lentilha",
+        "Sopa": "Creme de cenoura com gengibre",
         "Torrada": "Torrada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
         "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Acerola"
+        "Bebida (refresco de)": "Guaraná"
       }
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-10",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Ovos mexidos",
-        "Complemento ovolactovegetariano": "Pasta de ricota",
-        "Complemento vegetariano estrito": "Caponata de berinjela",
-        "Fruta": "Melão"
-      },
-      "almoco": {
-        "Salada 1": "Mix de folhas",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Salsa",
-        "Prato principal padrão": "Strogonoff de frango",
-        "Prato principal ovolactovegetariano": "Iscas de soja ao sugo gratinadas",
-        "Prato principal vegetariano estrito": "Polpetone de quinoa",
-        "Guarnição": "Batata sauté",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mexerica",
-        "Bebida (refresco de)": "Manga"
-      },
-      "jantar": {
-        "Salada 1": "Repolho roxo",
-        "Salada 2": "Tomate",
-        "Molho para salada": "Iogurte / Limão",
-        "Prato principal padrão": "Filé de peixe ao molho de ervas",
-        "Prato principal ovolactovegetariano": "Omelete caprese gratinada",
-        "Prato principal vegetariano estrito": "Bobó de legumes com soja",
-        "Sopa": "Creme de legumes",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Doce de banana OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Manga"
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "",
-        "Complemento padrão": "Patê de frango",
-        "Complemento ovolactovegetariano": "Ovos mexidos",
-        "Complemento vegetariano estrito": "Homus de abóbora",
+        "Complemento padrão": "Carne bovina moída",
+        "Complemento ovolactovegetariano": "Queijo muçarela",
+        "Complemento vegetariano estrito": "Pasta de ervilha com manjericão",
         "Fruta": "Maçã"
       },
       "almoco": {
-        "Salada 1": "Acelga temperada",
-        "Salada 2": "Sunomono de rabanete",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Carne de sol",
-        "Prato principal ovolactovegetariano": "Risoto de brócolis com couve e queijo",
-        "Prato principal vegetariano estrito": "Almôndega de soja ao sugo",
-        "Guarnição": "Mandioca cozida",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Limão"
-      },
-      "jantar": {
-        "Salada 1": "Alface crespa",
-        "Salada 2": "Cenoura ralada",
-        "Molho para salada": "Chimichurri / Limão",
-        "Prato principal padrão": "Isca de frango ao molho branco",
-        "Prato principal ovolactovegetariano": "Quibe de legumes com quinoa gratinado",
-        "Prato principal vegetariano estrito": "Refogado de grão de bico",
-        "Sopa": "Sopa de macarrão com legumes",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Melancia",
-        "Bebida (refresco de)": "Limão"
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Bolo",
-        "Gordura": "",
-        "Complemento padrão": "Iogurte natural",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Geleia rústica de abacaxi e chia",
-        "Fruta": "Banana"
-      },
-      "almoco": {
-        "Salada 1": "Couve-manteiga",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Vinagrete",
-        "Prato principal padrão": "Feijoada",
-        "Prato principal ovolactovegetariano": "Omelete de cebola ao forno com queijo gratinada",
-        "Prato principal vegetariano estrito": "Feijoada vegetariana",
-        "Guarnição": "Farofa crocante",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Uva"
-      },
-      "jantar": {
-        "Salada 1": "Alface roxa",
-        "Salada 2": "Berinjela com azeitonas",
-        "Molho para salada": "Chipotle",
-        "Prato principal padrão": "Hambúrguer gratinado",
-        "Prato principal ovolactovegetariano": "Nhoque ao molho branco com soja e queijo",
-        "Prato principal vegetariano estrito": "Moqueca de banana da terra com proteína de soja",
-        "Sopa": "Creme de cebola e alho poró",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Abacaxi",
-        "Bebida (refresco de)": "Uva"
-      }
-    },
-    {
-      "date": "2026-11-07",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "",
-        "Complemento padrão": "Queijo muçarela",
-        "Complemento ovolactovegetariano": "Bebida láctea",
-        "Complemento vegetariano estrito": "Pasta de batata doce com amendoim",
-        "Fruta": "Salada de frutas"
-      },
-      "almoco": {
-        "Salada 1": "Mostarda",
+        "Salada 1": "Acelga",
         "Salada 2": "Tomate",
-        "Molho para salada": "Mostarda e mel /Limão",
-        "Prato principal padrão": "Bife de carne bovina ao molho",
-        "Prato principal ovolactovegetariano": "Hambúrguer de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Ervilha com couve- flor ao curry",
-        "Guarnição": "Milho cozido",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Melão",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {
-        "Salada 1": "Rúcula",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Alho e limão /Limão",
-        "Prato principal padrão": "Suíno com cebola caramelizada",
-        "Prato principal ovolactovegetariano": "Ovos mexidos com castanhas",
-        "Prato principal vegetariano estrito": "Bolinho de grão de bico",
-        "Sopa": "Creme de mandioca",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Morango"
-      }
-    },
-    {
-      "date": "2026-11-08",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "",
-        "Complemento padrão": "Carne moída",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Maionese de abacate",
-        "Fruta": "Mamão"
-      },
-      "almoco": {
-        "Salada 1": "Repolho branco com gergelim",
-        "Salada 2": "Tabule",
-        "Molho para salada": "Hortelã",
-        "Prato principal padrão": "Torta de frango",
-        "Prato principal ovolactovegetariano": "Delícia de lentilha",
-        "Prato principal vegetariano estrito": "Espaguete com abobrinha e soja ao sugo",
-        "Guarnição": "Beterraba com salsinha",
+        "Molho para salada": "Chimichurri",
+        "Prato principal padrão": "Lasanha de frango",
+        "Prato principal ovolactovegetariano": "Bolinho de milho com soja gratinado",
+        "Prato principal vegetariano estrito": "Yakissoba",
+        "Guarnição": "Chuchu com vagem",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Abacaxi",
+        "Sobremesa": "Mix de doces OPÇÃO: Frutas",
         "Bebida (refresco de)": "Laranja"
       },
       "jantar": {
         "Salada 1": "Chicória",
-        "Salada 2": "Pepino em cubos com gergelim",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Cubos de carne ao molho de vinho",
-        "Prato principal ovolactovegetariano": "Cuscuz vegetariano com queijo minas",
-        "Prato principal vegetariano estrito": "Batata recheada com quinoa",
-        "Sopa": "Creme verde de ervilha e couve",
+        "Salada 2": "Sunomono",
+        "Molho para salada": "Chipotle",
+        "Prato principal padrão": "Carne de sol trinchada com cebola roxa",
+        "Prato principal ovolactovegetariano": "Bife de soja ao sugo gratinado",
+        "Prato principal vegetariano estrito": "Caruru de grão de bico",
+        "Sopa": "Caldo verde",
         "Torrada": "Torrada",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
         "Sobremesa": "Melão",
         "Bebida (refresco de)": "Laranja"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Presunto",
+        "Complemento ovolactovegetariano": "Queijo minas",
+        "Complemento vegetariano estrito": "Guacamole",
+        "Fruta": "Abacaxi"
+      },
+      "almoco": {
+        "Salada 1": "Alface com mostarda",
+        "Salada 2": "Beterraba cozida",
+        "Molho para salada": "Manjericão / Limão",
+        "Prato principal padrão": "Suíno ao molho de bacon",
+        "Prato principal ovolactovegetariano": "Omelete de forno com manjericao e queijo gratinada",
+        "Prato principal vegetariano estrito": "Abobrinha recheada com lentilha ao sugo",
+        "Guarnição": "Mix de batatas assadas",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Banana",
+        "Bebida (refresco de)": "Maracujá"
+      },
+      "jantar": {
+        "Salada 1": "Repolho roxo",
+        "Salada 2": "Abóbora ralada",
+        "Molho para salada": "Alho e limão",
+        "Prato principal padrão": "Strogonoff de frango",
+        "Prato principal ovolactovegetariano": "Risoto de espinafre com queijo",
+        "Prato principal vegetariano estrito": "Strogonoff vegetariano",
+        "Sopa": "Sopa canjiquinha",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Maracujá"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou",
+        "Opção extra": "Cuscuz de milho",
+        "Gordura": "",
+        "Complemento padrão": "Carne bovina desfiada",
+        "Complemento ovolactovegetariano": "Creme de ricota com azeitona",
+        "Complemento vegetariano estrito": "Amendotela",
+        "Fruta": "Melão"
+      },
+      "almoco": {
+        "Salada 1": "Mix de folhas",
+        "Salada 2": "Tomate, cebola e pimentão em cubos",
+        "Molho para salada": "Gengibre",
+        "Prato principal padrão": "Silveirinha de carne",
+        "Prato principal ovolactovegetariano": "Suflê de batata",
+        "Prato principal vegetariano estrito": "Quinoa com legumes refogados",
+        "Guarnição": "Macarrão parafuso temperado",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Uva"
+      },
+      "jantar": {
+        "Salada 1": "Alface crespa com laranja",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Ervas finas",
+        "Prato principal padrão": "Isca de carne ao molho escuro",
+        "Prato principal ovolactovegetariano": "Tomate recheadocom homus de ervilha gratinado",
+        "Prato principal vegetariano estrito": "Moqueca de vegetais com ervilha, palmito e castanhas",
+        "Sopa": "Creme de cebola caramelizada",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
+        "Bebida (refresco de)": "Uva"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Bebida láctea",
+        "Complemento vegetariano estrito": "Pasta de feijão branco com salsinha e orégano",
+        "Fruta": "Salada de frutas"
+      },
+      "almoco": {
+        "Salada 1": "Repolho branco com passas",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Hortelã / Limão",
+        "Prato principal padrão": "Peixe ao molho de mostarda",
+        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
+        "Prato principal vegetariano estrito": "Refogado de grão de bico",
+        "Guarnição": "Abobrinha refogada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Morango"
+      },
+      "jantar": {
+        "Salada 1": "Hakussai",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Coxa e sobrecoxa ao molho barbecue",
+        "Prato principal ovolactovegetariano": "Lasanha de brócolis",
+        "Prato principal vegetariano estrito": "Guisado de legumes com grãos de soja ao leite de coco",
+        "Sopa": "Creme de legumes",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Morango"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Queijo muçarela",
+        "Complemento ovolactovegetariano": "Omelete de forno gratinado",
+        "Complemento vegetariano estrito": "Geleia de goiaba e chia",
+        "Fruta": "Mamão"
+      },
+      "almoco": {
+        "Salada 1": "Alface lisa",
+        "Salada 2": "Pepino agridoce",
+        "Molho para salada": "Ácido",
+        "Prato principal padrão": "Frango assado com azeitonas",
+        "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
+        "Prato principal vegetariano estrito": "Hambúrguer de soja assado",
+        "Guarnição": "Repolho com maçã e passas",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Abacaxi",
+        "Bebida (refresco de)": "Acerola"
+      },
+      "jantar": {
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Berinjela com pimentões",
+        "Molho para salada": "Iogurte / Limão",
+        "Prato principal padrão": "Quibe de carne recheado com queijo",
+        "Prato principal ovolactovegetariano": "Isca de soja ao sugo gratinada",
+        "Prato principal vegetariano estrito": "Silveirinha de soja",
+        "Sopa": "Sopa de lentilha",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Acerola"
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Ricota temperada",
+        "Complemento vegetariano estrito": "Maionese de couve- flor",
+        "Fruta": "Banana"
+      },
+      "almoco": {
+        "Salada 1": "Alface crespa com chicória",
+        "Salada 2": "Rabanete",
+        "Molho para salada": "Chipotle",
+        "Prato principal padrão": "Lagarto ao molho",
+        "Prato principal ovolactovegetariano": "Almôndega de soja ao sugo gratinada",
+        "Prato principal vegetariano estrito": "Charuto de soja ao sugo",
+        "Guarnição": "Milho refogado",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melão",
+        "Bebida (refresco de)": "Manga"
+      },
+      "jantar": {
+        "Salada 1": "Mix de folhas",
+        "Salada 2": "Beterraba ralada",
+        "Molho para salada": "Manjericão",
+        "Prato principal padrão": "Frango cremoso",
+        "Prato principal ovolactovegetariano": "Bolinho de feijão preto gratinado",
+        "Prato principal vegetariano estrito": "Grão de bico à indiana",
+        "Sopa": "Sopa minestrone",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Mexerica",
+        "Bebida (refresco de)": "Manga"
       }
     }
   ],
   "Ceilândia": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "desjejum": {
-        "Bebidas": "Leite integral ou Bebida de soja / Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "Manteiga ou creme vegetal",
-        "Complemento padrão": "Carne desfiada",
-        "Complemento ovolactovegetariano": "Queijo muçarela",
-        "Complemento vegetariano estrito": "Homus de grão de bico",
-        "Fruta": "Abacaxi"
-      },
-      "almoco": {
-        "Salada 1": "Alface lisa com agrião",
-        "Salada 2": "Picles de cebola",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Frango assado com manjericão",
-        "Prato principal ovolactovegetariano": "Quiche de legumes e lentilha gratinada",
-        "Prato principal vegetariano estrito": "Refogado de lentilha, couve-flor e brócolis",
-        "Guarnição": "Jardineira verde (Chuchu e abobrinha)",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {
-        "Salada 1": "Mix de folhas",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Hortelã",
-        "Prato principal padrão": "Lagarto ao molho escuro",
-        "Prato principal ovolactovegetariano": "Baião de dois com queijo coalho",
-        "Prato principal vegetariano estrito": "Tomate recheado com soja",
-        "Sopa": "Creme de abóbora",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Morango"
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "Leite integral OU Bebida de soja / Café OU chá",
         "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Pão de queijo",
-        "Gordura": "",
+        "Opção extra": "Mingau de aveia",
+        "Gordura": "Manteiga ou creme vegetal",
         "Complemento padrão": "Frango desfiado",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Pasta de amendoim",
+        "Complemento ovolactovegetariano": "Ovos mexidos",
+        "Complemento vegetariano estrito": "Requeijão de ervas",
         "Fruta": "Melancia"
       },
       "almoco": {
-        "Salada 1": "Alface com chicória",
-        "Salada 2": "Abobrinha cozida com orégano",
-        "Molho para salada": "Chipotle /Limão",
-        "Prato principal padrão": "Suíno ao molho de bacon",
-        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
-        "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
-        "Guarnição": "Cenoura refogada com salsinha",
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Caponata de berinjela",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Carne ao molho de vinho",
+        "Prato principal ovolactovegetariano": "Berinjela recheada com quinoa gratinada",
+        "Prato principal vegetariano estrito": "Soja refogada com legumes",
+        "Guarnição": "Abóbora assada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Acerola"
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Guaraná"
       },
       "jantar": {
-        "Salada 1": "Acelga",
-        "Salada 2": "Salada de macarrão",
-        "Molho para salada": "Manjericão",
-        "Prato principal padrão": "Frango assado ao molho mostarda e mel",
-        "Prato principal ovolactovegetariano": "Escondidinho de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Bolinho de ervilha",
-        "Sopa": "Sopa de fubá",
+        "Salada 1": "Alface lisa com agrião",
+        "Salada 2": "Tabule",
+        "Molho para salada": "Rosé / Limão",
+        "Prato principal padrão": "Suíno ao molho barbecue de figo",
+        "Prato principal ovolactovegetariano": "Ovos mexidos com gergelim",
+        "Prato principal vegetariano estrito": "Refogado de lentilha",
+        "Sopa": "Creme de cenoura com gengibre",
         "Torrada": "Torrada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
         "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Acerola"
+        "Bebida (refresco de)": "Guaraná"
       }
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-10",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Ovos mexidos",
-        "Complemento ovolactovegetariano": "Pasta de ricota",
-        "Complemento vegetariano estrito": "Caponata de berinjela",
+        "Complemento padrão": "Carne bovina moída",
+        "Complemento ovolactovegetariano": "Queijo muçarela",
+        "Complemento vegetariano estrito": "Pasta de ervilha com manjericão",
+        "Fruta": "Maçã"
+      },
+      "almoco": {
+        "Salada 1": "Acelga",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Chimichurri",
+        "Prato principal padrão": "Lasanha de frango",
+        "Prato principal ovolactovegetariano": "Bolinho de milho com soja gratinado",
+        "Prato principal vegetariano estrito": "Yakissoba",
+        "Guarnição": "Chuchu com vagem",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Frutas",
+        "Bebida (refresco de)": "Laranja"
+      },
+      "jantar": {
+        "Salada 1": "Chicória",
+        "Salada 2": "Sunomono",
+        "Molho para salada": "Chipotle",
+        "Prato principal padrão": "Carne de sol trinchada com cebola roxa",
+        "Prato principal ovolactovegetariano": "Bife de soja ao sugo gratinado",
+        "Prato principal vegetariano estrito": "Caruru de grão de bico",
+        "Sopa": "Caldo verde",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Melão",
+        "Bebida (refresco de)": "Laranja"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Presunto",
+        "Complemento ovolactovegetariano": "Queijo minas",
+        "Complemento vegetariano estrito": "Guacamole",
+        "Fruta": "Abacaxi"
+      },
+      "almoco": {
+        "Salada 1": "Alface com mostarda",
+        "Salada 2": "Beterraba cozida",
+        "Molho para salada": "Manjericão / Limão",
+        "Prato principal padrão": "Suíno ao molho de bacon",
+        "Prato principal ovolactovegetariano": "Omelete de forno com manjericao e queijo gratinada",
+        "Prato principal vegetariano estrito": "Abobrinha recheada com lentilha ao sugo",
+        "Guarnição": "Mix de batatas assadas",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Banana",
+        "Bebida (refresco de)": "Maracujá"
+      },
+      "jantar": {
+        "Salada 1": "Repolho roxo",
+        "Salada 2": "Abóbora ralada",
+        "Molho para salada": "Alho e limão",
+        "Prato principal padrão": "Strogonoff de frango",
+        "Prato principal ovolactovegetariano": "Risoto de espinafre com queijo",
+        "Prato principal vegetariano estrito": "Strogonoff vegetariano",
+        "Sopa": "Sopa canjiquinha",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Maracujá"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou",
+        "Opção extra": "Cuscuz de milho",
+        "Gordura": "",
+        "Complemento padrão": "Carne bovina desfiada",
+        "Complemento ovolactovegetariano": "Creme de ricota com azeitona",
+        "Complemento vegetariano estrito": "Amendotela",
         "Fruta": "Melão"
       },
       "almoco": {
         "Salada 1": "Mix de folhas",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Salsa",
-        "Prato principal padrão": "Strogonoff de frango",
-        "Prato principal ovolactovegetariano": "Iscas de soja ao sugo gratinadas",
-        "Prato principal vegetariano estrito": "Polpetone de quinoa",
-        "Guarnição": "Batata sauté",
+        "Salada 2": "Tomate, cebola e pimentão em cubos",
+        "Molho para salada": "Gengibre",
+        "Prato principal padrão": "Silveirinha de carne",
+        "Prato principal ovolactovegetariano": "Suflê de batata",
+        "Prato principal vegetariano estrito": "Quinoa com legumes refogados",
+        "Guarnição": "Macarrão parafuso temperado",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mexerica",
-        "Bebida (refresco de)": "Manga"
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Uva"
       },
       "jantar": {
-        "Salada 1": "Repolho roxo",
-        "Salada 2": "Tomate",
-        "Molho para salada": "Iogurte / Limão",
-        "Prato principal padrão": "Filé de peixe ao molho de ervas",
-        "Prato principal ovolactovegetariano": "Omelete caprese gratinada",
-        "Prato principal vegetariano estrito": "Bobó de legumes com soja",
-        "Sopa": "Creme de legumes",
+        "Salada 1": "Alface crespa com laranja",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Ervas finas",
+        "Prato principal padrão": "Isca de carne ao molho escuro",
+        "Prato principal ovolactovegetariano": "Tomate recheadocom homus de ervilha gratinado",
+        "Prato principal vegetariano estrito": "Moqueca de vegetais com ervilha, palmito e castanhas",
+        "Sopa": "Creme de cebola caramelizada",
         "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Doce de banana OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Manga"
+        "Acompanhamentos": "Arroz branco e Integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
+        "Bebida (refresco de)": "Uva"
       }
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-13",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Patê de frango",
-        "Complemento ovolactovegetariano": "Ovos mexidos",
-        "Complemento vegetariano estrito": "Homus de abóbora",
-        "Fruta": "Maçã"
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Bebida láctea",
+        "Complemento vegetariano estrito": "Pasta de feijão branco com salsinha e orégano",
+        "Fruta": "Salada de frutas"
       },
       "almoco": {
-        "Salada 1": "Acelga temperada",
-        "Salada 2": "Sunomono de rabanete",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Carne de sol",
-        "Prato principal ovolactovegetariano": "Risoto de brócolis com couve e queijo",
-        "Prato principal vegetariano estrito": "Almôndega de soja ao sugo",
-        "Guarnição": "Mandioca cozida",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Limão"
-      },
-      "jantar": {
-        "Salada 1": "Alface crespa",
+        "Salada 1": "Repolho branco com passas",
         "Salada 2": "Cenoura ralada",
-        "Molho para salada": "Chimichurri / Limão",
-        "Prato principal padrão": "Isca de frango ao molho branco",
-        "Prato principal ovolactovegetariano": "Quibe de legumes com quinoa gratinado",
+        "Molho para salada": "Hortelã / Limão",
+        "Prato principal padrão": "Peixe ao molho de mostarda",
+        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
         "Prato principal vegetariano estrito": "Refogado de grão de bico",
-        "Sopa": "Sopa de macarrão com legumes",
-        "Torrada": "Torrada",
+        "Guarnição": "Abobrinha refogada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
         "Sobremesa": "Melancia",
-        "Bebida (refresco de)": "Limão"
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Bolo",
-        "Gordura": "",
-        "Complemento padrão": "Iogurte natural",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Geleia rústica de abacaxi e chia",
-        "Fruta": "Banana"
-      },
-      "almoco": {
-        "Salada 1": "Couve-manteiga",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Vinagrete",
-        "Prato principal padrão": "Feijoada",
-        "Prato principal ovolactovegetariano": "Omelete de cebola ao forno com queijo gratinada",
-        "Prato principal vegetariano estrito": "Feijoada vegetariana",
-        "Guarnição": "Farofa crocante",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Uva"
+        "Bebida (refresco de)": "Morango"
       },
       "jantar": {
-        "Salada 1": "Alface roxa",
-        "Salada 2": "Berinjela com azeitonas",
-        "Molho para salada": "Chipotle",
-        "Prato principal padrão": "Hambúrguer gratinado",
-        "Prato principal ovolactovegetariano": "Nhoque ao molho branco com soja e queijo",
-        "Prato principal vegetariano estrito": "Moqueca de banana da terra com proteína de soja",
-        "Sopa": "Creme de cebola e alho poró",
+        "Salada 1": "Hakussai",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Coxa e sobrecoxa ao molho barbecue",
+        "Prato principal ovolactovegetariano": "Lasanha de brócolis",
+        "Prato principal vegetariano estrito": "Guisado de legumes com grãos de soja ao leite de coco",
+        "Sopa": "Creme de legumes",
         "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Abacaxi",
-        "Bebida (refresco de)": "Uva"
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Morango"
       }
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-14",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
         "Complemento padrão": "Queijo muçarela",
-        "Complemento ovolactovegetariano": "Bebida láctea",
-        "Complemento vegetariano estrito": "Pasta de batata doce com amendoim",
-        "Fruta": "Salada de frutas"
+        "Complemento ovolactovegetariano": "Omelete de forno gratinado",
+        "Complemento vegetariano estrito": "Geleia de goiaba e chia",
+        "Fruta": "Mamão"
       },
       "almoco": {
-        "Salada 1": "Mostarda",
-        "Salada 2": "Tomate",
-        "Molho para salada": "Mostarda e mel /Limão",
-        "Prato principal padrão": "Bife de carne bovina ao molho",
-        "Prato principal ovolactovegetariano": "Hambúrguer de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Ervilha com couve-flor ao curry",
-        "Guarnição": "Milho cozido",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Melão",
-        "Bebida (refresco de)": "Morango"
+        "Salada 1": "Alface lisa",
+        "Salada 2": "Pepino agridoce",
+        "Molho para salada": "Ácido",
+        "Prato principal padrão": "Frango assado com azeitonas",
+        "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
+        "Prato principal vegetariano estrito": "Hambúrguer de soja assado",
+        "Guarnição": "Repolho com maçã e passas",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Abacaxi",
+        "Bebida (refresco de)": "Acerola"
       },
       "jantar": {}
     }
   ],
   "Gama": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "desjejum": {
-        "Bebidas": "Leite integral ou Bebida de soja / Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "Manteiga ou creme vegetal",
-        "Complemento padrão": "Carne desfiada",
-        "Complemento ovolactovegetariano": "Queijo muçarela",
-        "Complemento vegetariano estrito": "Homus de grão de bico",
-        "Fruta": "Abacaxi"
-      },
-      "almoco": {
-        "Salada 1": "Alface lisa com agrião",
-        "Salada 2": "Picles de cebola",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Frango assado com manjericão",
-        "Prato principal ovolactovegetariano": "Quiche de legumes e lentilha gratinada",
-        "Prato principal vegetariano estrito": "Refogado de lentilha, couve- flor e brócolis",
-        "Guarnição": "Jardineira verde (Chuchu e abobrinha)",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {
-        "Salada 1": "Mix de folhas",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Hortelã",
-        "Prato principal padrão": "Lagarto ao molho escuro",
-        "Prato principal ovolactovegetariano": "Baião de dois com queijo coalho",
-        "Prato principal vegetariano estrito": "Tomate recheado com soja",
-        "Sopa": "Creme de abóbora",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Morango"
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "Leite integral OU Bebida de soja / Café OU chá",
         "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Pão de queijo",
-        "Gordura": "",
+        "Opção extra": "Mingau de aveia",
+        "Gordura": "Manteiga ou creme vegetal",
         "Complemento padrão": "Frango desfiado",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Pasta de amendoim",
+        "Complemento ovolactovegetariano": "Ovos mexidos",
+        "Complemento vegetariano estrito": "Requeijão de ervas",
         "Fruta": "Melancia"
       },
       "almoco": {
-        "Salada 1": "Alface com chicória",
-        "Salada 2": "Abobrinha cozida com orégano",
-        "Molho para salada": "Chipotle /Limão",
-        "Prato principal padrão": "Suíno ao molho de bacon",
-        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
-        "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
-        "Guarnição": "Cenoura refogada com salsinha",
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Caponata de berinjela",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Carne ao molho de vinho",
+        "Prato principal ovolactovegetariano": "Berinjela recheada com quinoa gratinada",
+        "Prato principal vegetariano estrito": "Soja refogada com legumes",
+        "Guarnição": "Abóbora assada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Acerola"
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Guaraná"
       },
       "jantar": {
-        "Salada 1": "Acelga",
-        "Salada 2": "Salada de macarrão",
-        "Molho para salada": "Manjericão",
-        "Prato principal padrão": "Frango assado ao molho mostarda e mel",
-        "Prato principal ovolactovegetariano": "Escondidinho de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Bolinho de ervilha",
-        "Sopa": "Sopa de fubá",
+        "Salada 1": "Alface lisa com agrião",
+        "Salada 2": "Tabule",
+        "Molho para salada": "Rosé / Limão",
+        "Prato principal padrão": "Suíno ao molho barbecue de figo",
+        "Prato principal ovolactovegetariano": "Ovos mexidos com gergelim",
+        "Prato principal vegetariano estrito": "Refogado de lentilha",
+        "Sopa": "Creme de cenoura com gengibre",
         "Torrada": "Torrada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
         "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Acerola"
+        "Bebida (refresco de)": "Guaraná"
       }
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-10",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Ovos mexidos",
-        "Complemento ovolactovegetariano": "Pasta de ricota",
-        "Complemento vegetariano estrito": "Caponata de berinjela",
+        "Complemento padrão": "Carne bovina moída",
+        "Complemento ovolactovegetariano": "Queijo muçarela",
+        "Complemento vegetariano estrito": "Pasta de ervilha com manjericão",
+        "Fruta": "Maçã"
+      },
+      "almoco": {
+        "Salada 1": "Acelga",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Chimichurri",
+        "Prato principal padrão": "Lasanha de frango",
+        "Prato principal ovolactovegetariano": "Bolinho de milho com soja gratinado",
+        "Prato principal vegetariano estrito": "Yakissoba",
+        "Guarnição": "Chuchu com vagem",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Frutas",
+        "Bebida (refresco de)": "Laranja"
+      },
+      "jantar": {
+        "Salada 1": "Chicória",
+        "Salada 2": "Sunomono",
+        "Molho para salada": "Chipotle",
+        "Prato principal padrão": "Carne de sol trinchada com cebola roxa",
+        "Prato principal ovolactovegetariano": "Bife de soja ao sugo gratinado",
+        "Prato principal vegetariano estrito": "Caruru de grão de bico",
+        "Sopa": "Caldo verde",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Melão",
+        "Bebida (refresco de)": "Laranja"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Presunto",
+        "Complemento ovolactovegetariano": "Queijo minas",
+        "Complemento vegetariano estrito": "Guacamole",
+        "Fruta": "Abacaxi"
+      },
+      "almoco": {
+        "Salada 1": "Alface com mostarda",
+        "Salada 2": "Beterraba cozida",
+        "Molho para salada": "Manjericão / Limão",
+        "Prato principal padrão": "Suíno ao molho de bacon",
+        "Prato principal ovolactovegetariano": "Omelete de forno com manjericao e queijo gratinada",
+        "Prato principal vegetariano estrito": "Abobrinha recheada com lentilha ao sugo",
+        "Guarnição": "Mix de batatas assadas",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Banana",
+        "Bebida (refresco de)": "Maracujá"
+      },
+      "jantar": {
+        "Salada 1": "Repolho roxo",
+        "Salada 2": "Abóbora ralada",
+        "Molho para salada": "Alho e limão",
+        "Prato principal padrão": "Strogonoff de frango",
+        "Prato principal ovolactovegetariano": "Risoto de espinafre com queijo",
+        "Prato principal vegetariano estrito": "Strogonoff vegetariano",
+        "Sopa": "Sopa canjiquinha",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Maracujá"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou",
+        "Opção extra": "Cuscuz de milho",
+        "Gordura": "",
+        "Complemento padrão": "Carne bovina desfiada",
+        "Complemento ovolactovegetariano": "Creme de ricota com azeitona",
+        "Complemento vegetariano estrito": "Amendotela",
         "Fruta": "Melão"
       },
       "almoco": {
         "Salada 1": "Mix de folhas",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Salsa",
-        "Prato principal padrão": "Strogonoff de frango",
-        "Prato principal ovolactovegetariano": "Iscas de soja ao sugo gratinadas",
-        "Prato principal vegetariano estrito": "Polpetone de quinoa",
-        "Guarnição": "Batata sauté",
+        "Salada 2": "Tomate, cebola e pimentão em cubos",
+        "Molho para salada": "Gengibre",
+        "Prato principal padrão": "Silveirinha de carne",
+        "Prato principal ovolactovegetariano": "Suflê de batata",
+        "Prato principal vegetariano estrito": "Quinoa com legumes refogados",
+        "Guarnição": "Macarrão parafuso temperado",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mexerica",
-        "Bebida (refresco de)": "Manga"
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Uva"
       },
       "jantar": {
-        "Salada 1": "Repolho roxo",
-        "Salada 2": "Tomate",
-        "Molho para salada": "Iogurte / Limão",
-        "Prato principal padrão": "Filé de peixe ao molho de ervas",
-        "Prato principal ovolactovegetariano": "Omelete caprese gratinada",
-        "Prato principal vegetariano estrito": "Bobó de legumes com soja",
-        "Sopa": "Creme de legumes",
+        "Salada 1": "Alface crespa com laranja",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Ervas finas",
+        "Prato principal padrão": "Isca de carne ao molho escuro",
+        "Prato principal ovolactovegetariano": "Tomate recheadocom homus de ervilha gratinado",
+        "Prato principal vegetariano estrito": "Moqueca de vegetais com ervilha, palmito e castanhas",
+        "Sopa": "Creme de cebola caramelizada",
         "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Doce de banana OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Manga"
+        "Acompanhamentos": "Arroz branco e Integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
+        "Bebida (refresco de)": "Uva"
       }
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-13",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Patê de frango",
-        "Complemento ovolactovegetariano": "Ovos mexidos",
-        "Complemento vegetariano estrito": "Homus de abóbora",
-        "Fruta": "Maçã"
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Bebida láctea",
+        "Complemento vegetariano estrito": "Pasta de feijão branco com salsinha e orégano",
+        "Fruta": "Salada de frutas"
       },
       "almoco": {
-        "Salada 1": "Acelga temperada",
-        "Salada 2": "Sunomono de rabanete",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Carne de sol",
-        "Prato principal ovolactovegetariano": "Risoto de brócolis com couve e queijo",
-        "Prato principal vegetariano estrito": "Almôndega de soja ao sugo",
-        "Guarnição": "Mandioca cozida",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Limão"
-      },
-      "jantar": {
-        "Salada 1": "Alface crespa",
+        "Salada 1": "Repolho branco com passas",
         "Salada 2": "Cenoura ralada",
-        "Molho para salada": "Chimichurri / Limão",
-        "Prato principal padrão": "Isca de frango ao molho branco",
-        "Prato principal ovolactovegetariano": "Quibe de legumes com quinoa gratinado",
+        "Molho para salada": "Hortelã / Limão",
+        "Prato principal padrão": "Peixe ao molho de mostarda",
+        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
         "Prato principal vegetariano estrito": "Refogado de grão de bico",
-        "Sopa": "Sopa de macarrão com legumes",
-        "Torrada": "Torrada",
+        "Guarnição": "Abobrinha refogada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
         "Sobremesa": "Melancia",
-        "Bebida (refresco de)": "Limão"
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Bolo",
-        "Gordura": "",
-        "Complemento padrão": "Iogurte natural",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Geleia rústica de abacaxi e chia",
-        "Fruta": "Banana"
-      },
-      "almoco": {
-        "Salada 1": "Couve-manteiga",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Vinagrete",
-        "Prato principal padrão": "Feijoada",
-        "Prato principal ovolactovegetariano": "Omelete de cebola ao forno com queijo gratinada",
-        "Prato principal vegetariano estrito": "Feijoada vegetariana",
-        "Guarnição": "Farofa crocante",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Uva"
+        "Bebida (refresco de)": "Morango"
       },
       "jantar": {
-        "Salada 1": "Alface roxa",
-        "Salada 2": "Berinjela com azeitonas",
-        "Molho para salada": "Chipotle",
-        "Prato principal padrão": "Hambúrguer gratinado",
-        "Prato principal ovolactovegetariano": "Nhoque ao molho branco com soja e queijo",
-        "Prato principal vegetariano estrito": "Moqueca de banana da terra com proteína de soja",
-        "Sopa": "Creme de cebola e alho poró",
+        "Salada 1": "Hakussai",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Coxa e sobrecoxa ao molho barbecue",
+        "Prato principal ovolactovegetariano": "Lasanha de brócolis",
+        "Prato principal vegetariano estrito": "Guisado de legumes com grãos de soja ao leite de coco",
+        "Sopa": "Creme de legumes",
         "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Abacaxi",
-        "Bebida (refresco de)": "Uva"
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Morango"
       }
     }
   ],
   "Planaltina": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "desjejum": {
-        "Bebidas": "Leite integral ou Bebida de soja / Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "Manteiga ou creme vegetal",
-        "Complemento padrão": "Carne desfiada",
-        "Complemento ovolactovegetariano": "Queijo muçarela",
-        "Complemento vegetariano estrito": "Homus de grão de bico",
-        "Fruta": "Abacaxi"
-      },
-      "almoco": {
-        "Salada 1": "Alface lisa com agrião",
-        "Salada 2": "Picles de cebola",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Frango assado com manjericão",
-        "Prato principal ovolactovegetariano": "Quiche de legumes e lentilha gratinada",
-        "Prato principal vegetariano estrito": "Refogado de lentilha, couve-flor e brócolis",
-        "Guarnição": "Jardineira verde (Chuchu e abobrinha)",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {
-        "Salada 1": "Mix de folhas",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Hortelã",
-        "Prato principal padrão": "Lagarto ao molho escuro",
-        "Prato principal ovolactovegetariano": "Baião de dois com queijo coalho",
-        "Prato principal vegetariano estrito": "Tomate recheado com soja",
-        "Sopa": "Creme de abóbora",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Morango"
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "Leite integral OU Bebida de soja / Café OU chá",
         "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Pão de queijo",
-        "Gordura": "",
+        "Opção extra": "Mingau de aveia",
+        "Gordura": "Manteiga ou creme vegetal",
         "Complemento padrão": "Frango desfiado",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Pasta de amendoim",
+        "Complemento ovolactovegetariano": "Ovos mexidos",
+        "Complemento vegetariano estrito": "Requeijão de ervas",
         "Fruta": "Melancia"
       },
       "almoco": {
-        "Salada 1": "Alface com chicória",
-        "Salada 2": "Abobrinha cozida com orégano",
-        "Molho para salada": "Chipotle /Limão",
-        "Prato principal padrão": "Suíno ao molho de bacon",
-        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
-        "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
-        "Guarnição": "Cenoura refogada com salsinha",
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Caponata de berinjela",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Carne ao molho de vinho",
+        "Prato principal ovolactovegetariano": "Berinjela recheada com quinoa gratinada",
+        "Prato principal vegetariano estrito": "Soja refogada com legumes",
+        "Guarnição": "Abóbora assada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Acerola"
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Guaraná"
       },
       "jantar": {
-        "Salada 1": "Acelga",
-        "Salada 2": "Salada de macarrão",
-        "Molho para salada": "Manjericão",
-        "Prato principal padrão": "Frango assado ao molho mostarda e mel",
-        "Prato principal ovolactovegetariano": "Escondidinho de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Bolinho de ervilha",
-        "Sopa": "Sopa de fubá",
+        "Salada 1": "Alface lisa com agrião",
+        "Salada 2": "Tabule",
+        "Molho para salada": "Rosé / Limão",
+        "Prato principal padrão": "Suíno ao molho barbecue de figo",
+        "Prato principal ovolactovegetariano": "Ovos mexidos com gergelim",
+        "Prato principal vegetariano estrito": "Refogado de lentilha",
+        "Sopa": "Creme de cenoura com gengibre",
         "Torrada": "Torrada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
         "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Acerola"
+        "Bebida (refresco de)": "Guaraná"
       }
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-10",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Ovos mexidos",
-        "Complemento ovolactovegetariano": "Pasta de ricota",
-        "Complemento vegetariano estrito": "Caponata de berinjela",
-        "Fruta": "Melão"
-      },
-      "almoco": {
-        "Salada 1": "Mix de folhas",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Salsa",
-        "Prato principal padrão": "Strogonoff de frango",
-        "Prato principal ovolactovegetariano": "Iscas de soja ao sugo gratinadas",
-        "Prato principal vegetariano estrito": "Polpetone de quinoa",
-        "Guarnição": "Batata sauté",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mexerica",
-        "Bebida (refresco de)": "Manga"
-      },
-      "jantar": {
-        "Salada 1": "Repolho roxo",
-        "Salada 2": "Tomate",
-        "Molho para salada": "Iogurte / Limão",
-        "Prato principal padrão": "Filé de peixe ao molho de ervas",
-        "Prato principal ovolactovegetariano": "Omelete caprese gratinada",
-        "Prato principal vegetariano estrito": "Bobó de legumes com soja",
-        "Sopa": "Creme de legumes",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Doce de banana OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Manga"
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "",
-        "Complemento padrão": "Patê de frango",
-        "Complemento ovolactovegetariano": "Ovos mexidos",
-        "Complemento vegetariano estrito": "Homus de abóbora",
+        "Complemento padrão": "Carne bovina moída",
+        "Complemento ovolactovegetariano": "Queijo muçarela",
+        "Complemento vegetariano estrito": "Pasta de ervilha com manjericão",
         "Fruta": "Maçã"
       },
       "almoco": {
-        "Salada 1": "Acelga temperada",
-        "Salada 2": "Sunomono de rabanete",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Carne de sol",
-        "Prato principal ovolactovegetariano": "Risoto de brócolis com couve e queijo",
-        "Prato principal vegetariano estrito": "Almôndega de soja ao sugo",
-        "Guarnição": "Mandioca cozida",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Limão"
-      },
-      "jantar": {
-        "Salada 1": "Alface crespa",
-        "Salada 2": "Cenoura ralada",
-        "Molho para salada": "Chimichurri / Limão",
-        "Prato principal padrão": "Isca de frango ao molho branco",
-        "Prato principal ovolactovegetariano": "Quibe de legumes com quinoa gratinado",
-        "Prato principal vegetariano estrito": "Refogado de grão de bico",
-        "Sopa": "Sopa de macarrão com legumes",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Melancia",
-        "Bebida (refresco de)": "Limão"
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Bolo",
-        "Gordura": "",
-        "Complemento padrão": "Iogurte natural",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Geleia rústica de abacaxi e chia",
-        "Fruta": "Banana"
-      },
-      "almoco": {
-        "Salada 1": "Couve-manteiga",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Vinagrete",
-        "Prato principal padrão": "Feijoada",
-        "Prato principal ovolactovegetariano": "Omelete de cebola ao forno com queijo gratinada",
-        "Prato principal vegetariano estrito": "Feijoada vegetariana",
-        "Guarnição": "Farofa crocante",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Uva"
-      },
-      "jantar": {
-        "Salada 1": "Alface roxa",
-        "Salada 2": "Berinjela com azeitonas",
-        "Molho para salada": "Chipotle",
-        "Prato principal padrão": "Hambúrguer gratinado",
-        "Prato principal ovolactovegetariano": "Nhoque ao molho branco com soja e queijo",
-        "Prato principal vegetariano estrito": "Moqueca de banana da terra com proteína de soja",
-        "Sopa": "Creme de cebola e alho poró",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Abacaxi",
-        "Bebida (refresco de)": "Uva"
-      }
-    },
-    {
-      "date": "2026-11-07",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "",
-        "Complemento padrão": "Queijo muçarela",
-        "Complemento ovolactovegetariano": "Bebida láctea",
-        "Complemento vegetariano estrito": "Pasta de batata doce com amendoim",
-        "Fruta": "Salada de frutas"
-      },
-      "almoco": {
-        "Salada 1": "Mostarda",
+        "Salada 1": "Acelga",
         "Salada 2": "Tomate",
-        "Molho para salada": "Mostarda e mel /Limão",
-        "Prato principal padrão": "Bife de carne bovina ao molho",
-        "Prato principal ovolactovegetariano": "Hambúrguer de ervilha gratinado",
-        "Prato principal vegetariano estrito": "Ervilha com couve- flor ao curry",
-        "Guarnição": "Milho cozido",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Melão",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {
-        "Salada 1": "Rúcula",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Alho e limão /Limão",
-        "Prato principal padrão": "Suíno com cebola caramelizada",
-        "Prato principal ovolactovegetariano": "Ovos mexidos com castanhas",
-        "Prato principal vegetariano estrito": "Bolinho de grão de bico",
-        "Sopa": "Creme de mandioca",
-        "Torrada": "Torrada",
-        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Morango"
-      }
-    },
-    {
-      "date": "2026-11-08",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "",
-        "Complemento padrão": "Carne moída",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Maionese de abacate",
-        "Fruta": "Mamão"
-      },
-      "almoco": {
-        "Salada 1": "Repolho branco com gergelim",
-        "Salada 2": "Tabule",
-        "Molho para salada": "Hortelã",
-        "Prato principal padrão": "Torta de frango",
-        "Prato principal ovolactovegetariano": "Delícia de lentilha",
-        "Prato principal vegetariano estrito": "Espaguete com abobrinha e soja ao sugo",
-        "Guarnição": "Beterraba com salsinha",
+        "Molho para salada": "Chimichurri",
+        "Prato principal padrão": "Lasanha de frango",
+        "Prato principal ovolactovegetariano": "Bolinho de milho com soja gratinado",
+        "Prato principal vegetariano estrito": "Yakissoba",
+        "Guarnição": "Chuchu com vagem",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Abacaxi",
+        "Sobremesa": "Mix de doces OPÇÃO: Frutas",
         "Bebida (refresco de)": "Laranja"
       },
       "jantar": {
         "Salada 1": "Chicória",
-        "Salada 2": "Pepino em cubos com gergelim",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Cubos de carne ao molho de vinho",
-        "Prato principal ovolactovegetariano": "Cuscuz vegetariano com queijo minas",
-        "Prato principal vegetariano estrito": "Batata recheada com quinoa",
-        "Sopa": "Creme verde de ervilha e couve",
+        "Salada 2": "Sunomono",
+        "Molho para salada": "Chipotle",
+        "Prato principal padrão": "Carne de sol trinchada com cebola roxa",
+        "Prato principal ovolactovegetariano": "Bife de soja ao sugo gratinado",
+        "Prato principal vegetariano estrito": "Caruru de grão de bico",
+        "Sopa": "Caldo verde",
         "Torrada": "Torrada",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
         "Sobremesa": "Melão",
         "Bebida (refresco de)": "Laranja"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Presunto",
+        "Complemento ovolactovegetariano": "Queijo minas",
+        "Complemento vegetariano estrito": "Guacamole",
+        "Fruta": "Abacaxi"
+      },
+      "almoco": {
+        "Salada 1": "Alface com mostarda",
+        "Salada 2": "Beterraba cozida",
+        "Molho para salada": "Manjericão / Limão",
+        "Prato principal padrão": "Suíno ao molho de bacon",
+        "Prato principal ovolactovegetariano": "Omelete de forno com manjericao e queijo gratinada",
+        "Prato principal vegetariano estrito": "Abobrinha recheada com lentilha ao sugo",
+        "Guarnição": "Mix de batatas assadas",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Banana",
+        "Bebida (refresco de)": "Maracujá"
+      },
+      "jantar": {
+        "Salada 1": "Repolho roxo",
+        "Salada 2": "Abóbora ralada",
+        "Molho para salada": "Alho e limão",
+        "Prato principal padrão": "Strogonoff de frango",
+        "Prato principal ovolactovegetariano": "Risoto de espinafre com queijo",
+        "Prato principal vegetariano estrito": "Strogonoff vegetariano",
+        "Sopa": "Sopa canjiquinha",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Maracujá"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou",
+        "Opção extra": "Cuscuz de milho",
+        "Gordura": "",
+        "Complemento padrão": "Carne bovina desfiada",
+        "Complemento ovolactovegetariano": "Creme de ricota com azeitona",
+        "Complemento vegetariano estrito": "Amendotela",
+        "Fruta": "Melão"
+      },
+      "almoco": {
+        "Salada 1": "Mix de folhas",
+        "Salada 2": "Tomate, cebola e pimentão em cubos",
+        "Molho para salada": "Gengibre",
+        "Prato principal padrão": "Silveirinha de carne",
+        "Prato principal ovolactovegetariano": "Suflê de batata",
+        "Prato principal vegetariano estrito": "Quinoa com legumes refogados",
+        "Guarnição": "Macarrão parafuso temperado",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Uva"
+      },
+      "jantar": {
+        "Salada 1": "Alface crespa com laranja",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Ervas finas",
+        "Prato principal padrão": "Isca de carne ao molho escuro",
+        "Prato principal ovolactovegetariano": "Tomate recheadocom homus de ervilha gratinado",
+        "Prato principal vegetariano estrito": "Moqueca de vegetais com ervilha, palmito e castanhas",
+        "Sopa": "Creme de cebola caramelizada",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
+        "Bebida (refresco de)": "Uva"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Bebida láctea",
+        "Complemento vegetariano estrito": "Pasta de feijão branco com salsinha e orégano",
+        "Fruta": "Salada de frutas"
+      },
+      "almoco": {
+        "Salada 1": "Repolho branco com passas",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Hortelã / Limão",
+        "Prato principal padrão": "Peixe ao molho de mostarda",
+        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
+        "Prato principal vegetariano estrito": "Refogado de grão de bico",
+        "Guarnição": "Abobrinha refogada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Morango"
+      },
+      "jantar": {
+        "Salada 1": "Hakussai",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Coxa e sobrecoxa ao molho barbecue",
+        "Prato principal ovolactovegetariano": "Lasanha de brócolis",
+        "Prato principal vegetariano estrito": "Guisado de legumes com grãos de soja ao leite de coco",
+        "Sopa": "Creme de legumes",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Morango"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Queijo muçarela",
+        "Complemento ovolactovegetariano": "Omelete de forno gratinado",
+        "Complemento vegetariano estrito": "Geleia de goiaba e chia",
+        "Fruta": "Mamão"
+      },
+      "almoco": {
+        "Salada 1": "Alface lisa",
+        "Salada 2": "Pepino agridoce",
+        "Molho para salada": "Ácido",
+        "Prato principal padrão": "Frango assado com azeitonas",
+        "Prato principal ovolactovegetariano": "Fricassê de palmito com legumes",
+        "Prato principal vegetariano estrito": "Hambúrguer de soja assado",
+        "Guarnição": "Repolho com maçã e passas",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Abacaxi",
+        "Bebida (refresco de)": "Acerola"
+      },
+      "jantar": {
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Berinjela com pimentões",
+        "Molho para salada": "Iogurte / Limão",
+        "Prato principal padrão": "Quibe de carne recheado com queijo",
+        "Prato principal ovolactovegetariano": "Isca de soja ao sugo gratinada",
+        "Prato principal vegetariano estrito": "Silveirinha de soja",
+        "Sopa": "Sopa de lentilha",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Acerola"
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Ricota temperada",
+        "Complemento vegetariano estrito": "Maionese de couve- flor",
+        "Fruta": "Banana"
+      },
+      "almoco": {
+        "Salada 1": "Alface crespa com chicória",
+        "Salada 2": "Rabanete",
+        "Molho para salada": "Chipotle",
+        "Prato principal padrão": "Lagarto ao molho",
+        "Prato principal ovolactovegetariano": "Almôndega de soja ao sugo gratinada",
+        "Prato principal vegetariano estrito": "Charuto de soja ao sugo",
+        "Guarnição": "Milho refogado",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Melão",
+        "Bebida (refresco de)": "Manga"
+      },
+      "jantar": {
+        "Salada 1": "Mix de folhas",
+        "Salada 2": "Beterraba ralada",
+        "Molho para salada": "Manjericão",
+        "Prato principal padrão": "Frango cremoso",
+        "Prato principal ovolactovegetariano": "Bolinho de feijão preto gratinado",
+        "Prato principal vegetariano estrito": "Grão de bico à indiana",
+        "Sopa": "Sopa minestrone",
+        "Torrada": "Torrada",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Mexerica",
+        "Bebida (refresco de)": "Manga"
       }
     }
   ],
   "Fazenda": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "desjejum": {
-        "Bebidas": "Leite integral ou Bebida de soja / Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou Pão integral",
-        "Opção extra": "",
-        "Gordura": "Manteiga ou creme vegetal",
-        "Complemento padrão": "Carne desfiada",
-        "Complemento ovolactovegetariano": "Queijo muçarela",
-        "Complemento vegetariano estrito": "Homus de grão de bico",
-        "Fruta": "Abacaxi"
-      },
-      "almoco": {
-        "Salada 1": "Alface lisa com agrião",
-        "Salada 2": "Picles de cebola",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Frango assado com manjericão",
-        "Prato principal ovolactovegetariano": "Quiche de legumes e lentilha gratinada",
-        "Prato principal vegetariano estrito": "Refogado de lentilha, couve- flor e brócolis",
-        "Guarnição": "Jardineira verde (Chuchu e abobrinha)",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mix de doces OPÇÃO: Fruta",
-        "Bebida (refresco de)": "Morango"
-      },
-      "jantar": {}
-    },
-    {
-      "date": "2026-11-03",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "Leite integral OU Bebida de soja / Café OU chá",
         "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Pão de queijo",
-        "Gordura": "",
+        "Opção extra": "Mingau de aveia",
+        "Gordura": "Manteiga ou creme vegetal",
         "Complemento padrão": "Frango desfiado",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Pasta de amendoim",
+        "Complemento ovolactovegetariano": "Ovos mexidos",
+        "Complemento vegetariano estrito": "Requeijão de ervas",
         "Fruta": "Melancia"
       },
       "almoco": {
-        "Salada 1": "Alface com chicória",
-        "Salada 2": "Abobrinha cozida com orégano",
-        "Molho para salada": "Chipotle /Limão",
-        "Prato principal padrão": "Suíno ao molho de bacon",
-        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
-        "Prato principal vegetariano estrito": "Berinjela recheada com homus de grão de bico",
-        "Guarnição": "Cenoura refogada com salsinha",
+        "Salada 1": "Alface roxa",
+        "Salada 2": "Caponata de berinjela",
+        "Molho para salada": "Salsa",
+        "Prato principal padrão": "Carne ao molho de vinho",
+        "Prato principal ovolactovegetariano": "Berinjela recheada com quinoa gratinada",
+        "Prato principal vegetariano estrito": "Soja refogada com legumes",
+        "Guarnição": "Abóbora assada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Maçã",
-        "Bebida (refresco de)": "Acerola"
+        "Sobremesa": "Laranja",
+        "Bebida (refresco de)": "Guaraná"
       },
       "jantar": {}
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-10",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Ovos mexidos",
-        "Complemento ovolactovegetariano": "Pasta de ricota",
-        "Complemento vegetariano estrito": "Caponata de berinjela",
+        "Complemento padrão": "Carne bovina moída",
+        "Complemento ovolactovegetariano": "Queijo muçarela",
+        "Complemento vegetariano estrito": "Pasta de ervilha com manjericão",
+        "Fruta": "Maçã"
+      },
+      "almoco": {
+        "Salada 1": "Acelga",
+        "Salada 2": "Tomate",
+        "Molho para salada": "Chimichurri",
+        "Prato principal padrão": "Lasanha de frango",
+        "Prato principal ovolactovegetariano": "Bolinho de milho com soja gratinado",
+        "Prato principal vegetariano estrito": "Yakissoba",
+        "Guarnição": "Chuchu com vagem",
+        "Acompanhamentos": "Arroz branco e integral Feijão preto",
+        "Sobremesa": "Mix de doces OPÇÃO: Frutas",
+        "Bebida (refresco de)": "Laranja"
+      },
+      "jantar": {}
+    },
+    {
+      "date": "2026-11-11",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou Pão integral",
+        "Opção extra": "",
+        "Gordura": "",
+        "Complemento padrão": "Presunto",
+        "Complemento ovolactovegetariano": "Queijo minas",
+        "Complemento vegetariano estrito": "Guacamole",
+        "Fruta": "Abacaxi"
+      },
+      "almoco": {
+        "Salada 1": "Alface com mostarda",
+        "Salada 2": "Beterraba cozida",
+        "Molho para salada": "Manjericão / Limão",
+        "Prato principal padrão": "Suíno ao molho de bacon",
+        "Prato principal ovolactovegetariano": "Omelete de forno com manjericao e queijo gratinada",
+        "Prato principal vegetariano estrito": "Abobrinha recheada com lentilha ao sugo",
+        "Guarnição": "Mix de batatas assadas",
+        "Acompanhamentos": "Arroz branco e integral Feijão carioca",
+        "Sobremesa": "Banana",
+        "Bebida (refresco de)": "Maracujá"
+      },
+      "jantar": {}
+    },
+    {
+      "date": "2026-11-12",
+      "desjejum": {
+        "Bebidas": "",
+        "Panificação": "Pão francês ou Pão careca ou",
+        "Opção extra": "Cuscuz de milho",
+        "Gordura": "",
+        "Complemento padrão": "Carne bovina desfiada",
+        "Complemento ovolactovegetariano": "Creme de ricota com azeitona",
+        "Complemento vegetariano estrito": "Amendotela",
         "Fruta": "Melão"
       },
       "almoco": {
         "Salada 1": "Mix de folhas",
-        "Salada 2": "Abóbora ralada",
-        "Molho para salada": "Salsa",
-        "Prato principal padrão": "Strogonoff de frango",
-        "Prato principal ovolactovegetariano": "Iscas de soja ao sugo gratinadas",
-        "Prato principal vegetariano estrito": "Polpetone de quinoa",
-        "Guarnição": "Batata sauté",
+        "Salada 2": "Tomate, cebola e pimentão em cubos",
+        "Molho para salada": "Gengibre",
+        "Prato principal padrão": "Silveirinha de carne",
+        "Prato principal ovolactovegetariano": "Suflê de batata",
+        "Prato principal vegetariano estrito": "Quinoa com legumes refogados",
+        "Guarnição": "Macarrão parafuso temperado",
         "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Mexerica",
-        "Bebida (refresco de)": "Manga"
+        "Sobremesa": "Maçã",
+        "Bebida (refresco de)": "Uva"
       },
       "jantar": {}
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-13",
       "desjejum": {
-        "Bebidas": "Café OU chá",
+        "Bebidas": "",
         "Panificação": "Pão francês ou Pão careca ou Pão integral",
         "Opção extra": "",
         "Gordura": "",
-        "Complemento padrão": "Patê de frango",
-        "Complemento ovolactovegetariano": "Ovos mexidos",
-        "Complemento vegetariano estrito": "Homus de abóbora",
-        "Fruta": "Maçã"
+        "Complemento padrão": "Queijo minas",
+        "Complemento ovolactovegetariano": "Bebida láctea",
+        "Complemento vegetariano estrito": "Pasta de feijão branco com salsinha e orégano",
+        "Fruta": "Salada de frutas"
       },
       "almoco": {
-        "Salada 1": "Acelga temperada",
-        "Salada 2": "Sunomono de rabanete",
-        "Molho para salada": "Ácido",
-        "Prato principal padrão": "Carne de sol",
-        "Prato principal ovolactovegetariano": "Risoto de brócolis com couve e queijo",
-        "Prato principal vegetariano estrito": "Almôndega de soja ao sugo",
-        "Guarnição": "Mandioca cozida",
+        "Salada 1": "Repolho branco com passas",
+        "Salada 2": "Cenoura ralada",
+        "Molho para salada": "Hortelã / Limão",
+        "Prato principal padrão": "Peixe ao molho de mostarda",
+        "Prato principal ovolactovegetariano": "Ovos assados ao sugo",
+        "Prato principal vegetariano estrito": "Refogado de grão de bico",
+        "Guarnição": "Abobrinha refogada",
         "Acompanhamentos": "Arroz branco e integral Feijão carioca",
-        "Sobremesa": "Banana",
-        "Bebida (refresco de)": "Limão"
-      },
-      "jantar": {}
-    },
-    {
-      "date": "2026-11-06",
-      "desjejum": {
-        "Bebidas": "Café OU chá",
-        "Panificação": "Pão francês ou Pão careca ou",
-        "Opção extra": "Bolo",
-        "Gordura": "",
-        "Complemento padrão": "Iogurte natural",
-        "Complemento ovolactovegetariano": "Queijo minas",
-        "Complemento vegetariano estrito": "Geleia rústica de abacaxi e chia",
-        "Fruta": "Banana"
-      },
-      "almoco": {
-        "Salada 1": "Couve-manteiga",
-        "Salada 2": "Beterraba ralada",
-        "Molho para salada": "Vinagrete",
-        "Prato principal padrão": "Feijoada",
-        "Prato principal ovolactovegetariano": "Omelete de cebola ao forno com queijo gratinada",
-        "Prato principal vegetariano estrito": "Feijoada vegetariana",
-        "Guarnição": "Farofa crocante",
-        "Acompanhamentos": "Arroz branco e integral Feijão preto",
-        "Sobremesa": "Laranja",
-        "Bebida (refresco de)": "Uva"
+        "Sobremesa": "Melancia",
+        "Bebida (refresco de)": "Morango"
       },
       "jantar": {}
     }
